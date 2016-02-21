@@ -1,0 +1,12 @@
+c:\users\fikrte2\documents\visual studio 2015\Projects\practicingJason\practicingJason\bin\Debug\practicingJason.exe.config
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\practicingJason.exe
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\practicingJason.pdb
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\obj\Debug\practicingJason.csprojResolveAssemblyReference.cache
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\obj\Debug\practicingJason.exe
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\obj\Debug\practicingJason.pdb
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\practicingJason.exe.manifest
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\bin\Debug\practicingJason.application
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\obj\Debug\practicingJason.exe.manifest
+C:\Users\Fikrte2\Documents\Visual Studio 2015\Projects\practicingJason\practicingJason\obj\Debug\practicingJason.application
